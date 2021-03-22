@@ -32,7 +32,7 @@
 
 ## 코드
 
-['./main_prudential life insurance assessment.py'](./main_prudential life insurance assessment.py)
+['./main_prudential_life_insurance_assessment.py'](./main_prudential_life_insurance_assessment.py)
 
 ## 참고 자료
 
