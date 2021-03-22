@@ -34,6 +34,21 @@ kaggle에서 제공되는 것은 test 이미지 데이터셋과 제출 형식을
 전체 표 데이터에서 LabelName1, LabelName2, RelationshipLabel 의 세가지 feature의 unique 한 조합의 개수를 찾고 높은 순서대로 정렬하였다. 전체 데이터에서 각 조합이 차지하는 비율을 계산하여 정확도로 기록한 뒤, 다른 feature 들과 조합하여 상위 100개의 항목을 PredictionString으로 추가하였다.
 
 ## 코드
+![result1](./img/result1.png)
+![result2](./img/result2.png)
+![result3](./img/result3.png)
+![result4](./img/result4.png)
+![result5](./img/result5.png)
+![result6](./img/result6.png)
+![result7](./img/result7.png)
+![result8](./img/result8.png)
+![result9](./img/result9.png)
+![result10](./img/result10.png)
+![result11](./img/result11.png)
+![result12](./img/result12.png)
+![result13](./img/result13.png)
+![result14](./img/result14.png)
+![result15](./img/result15.png)
 
 
 
