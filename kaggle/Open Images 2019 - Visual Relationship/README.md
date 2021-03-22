@@ -48,8 +48,6 @@ kaggle에서 제공되는 것은 test 이미지 데이터셋과 제출 형식을
 ![result12](./img/result12.png)
 ![result13](./img/result13.png)
 ![result14](./img/result14.png)
-![result15](./img/result15.png)
-
 
 
 
