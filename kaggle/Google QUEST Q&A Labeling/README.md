@@ -11,7 +11,8 @@
 - 순위 및 비율 : 1366(86%)
 
 ### 결과화면
-
+![qna_score](./img/qna_score.PNG)
+![qna_rank](./img/qna_rank.PNG)
 
 ## 사용한 방법 & 알고리즘
 - 워드 벡터 사전 생성
