@@ -84,5 +84,3 @@ with open("sample_submission.csv","w") as f:                                    
             image = image.rsplit('/', 1)[1]                                         # test_images 중 현재 이미지의 경로를 스플릿해서 이미지 파일명만 가져옴
             predicted_ori = " ".join(predicted_ori)                                 # 배열 형으로 된거 공백으로 구분하여 다 붙임
             f.write("%s,%s\n" %(image, predicted_ori))                              # 헤더 아래로 쭉 덮어 쓴다
-
-### 끝... 데이터 증폭, 뭐시기 다 해봤는데 원데이터 그대로 쓰는게 결과 제일 잘 나왔음.
