@@ -11,8 +11,8 @@
 - 순위 및 비율 : 59(28%)
 
 ### 결과화면
-![poker_score](https://user-images.githubusercontent.com/54340339/115495255-3c991880-a2a2-11eb-9e22-817589a4af3a.PNG)
-![poker_rank](https://user-images.githubusercontent.com/54340339/115495278-4589ea00-a2a2-11eb-8caf-7f698dab3f09.PNG)
+![poker_score](./img/poker_score.PNG)
+![poker_rank](./img/poker_rank.PNG)
 
 
 ## 사용한 방법 & 알고리즘
