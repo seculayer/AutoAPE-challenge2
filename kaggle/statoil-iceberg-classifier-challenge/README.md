@@ -1,4 +1,4 @@
-# BNP Paribas Cardif Claims Management
+# Statoil/C-CORE Iceberg Classifier Challenge
 
 ## 결과
 
