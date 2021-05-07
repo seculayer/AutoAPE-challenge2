@@ -22,7 +22,6 @@ LightGBM
   - objective: 'multiclass'
   - early_stopping_rounds: 50
 ## 코드
-[./reducing-commercial-aviation-fatalities](/.reducing-commercial-aviation-fatalities.ipynb)
+[`./reducing-commercial-aviation-fatalities.ipynb`](./reducing-commercial-aviation-fatalities.ipynb)
 ## 참고 자료
-- [SimonStrong Team Modeling]
-(https://www.kaggle.com/shmilyms/simonstrong-analysis-summary-12th)
+- [SimonStrong Team Modeling](https://www.kaggle.com/shmilyms/simonstrong-analysis-summary-12th)
