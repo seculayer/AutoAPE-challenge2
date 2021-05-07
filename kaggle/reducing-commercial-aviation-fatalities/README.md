@@ -8,7 +8,7 @@
 - 총 참여 팀수: 178
 - 순위 및 비울: 62.4%
 ### 결과화면
-![leaderboard](.img/leaderboard.png)
+![leaderboard](./img/leaderboard.png)
 ## 사용한 방법 & 알고리즘
 LightGBM
 - Feature engineering
@@ -22,7 +22,7 @@ LightGBM
   - objective: 'multiclass'
   - early_stopping_rounds: 50
 ## 코드
-[./reducing-commercial-aviation-fatalities](/.reducing-commercial-aviation-fatalities)
+[./reducing-commercial-aviation-fatalities](/.reducing-commercial-aviation-fatalities.ipynb)
 ## 참고 자료
 - [SimonStrong Team Modeling]
 (https://www.kaggle.com/shmilyms/simonstrong-analysis-summary-12th)
