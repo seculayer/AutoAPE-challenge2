@@ -1,10 +1,10 @@
 id: cassava-leaf-disease-classification
 title: Cassava Leaf Disease Classification
-score:0.8990
-team:3900
-rank:208
+score: 0.8990
+team: 3900
+rank: 208
 date: 2021-05-05
 organization: Hanyang University
 author:
-  id:
-  name: MWAMBA KASONGO DAHOUDA
+  id: development
+  name: MWAMBA KASONGO Dahouda
