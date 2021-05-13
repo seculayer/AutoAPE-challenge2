@@ -26,6 +26,7 @@ Importants Libraries
 - num2words is a library that converts numbers like 42 to words like forty-two.
 - Roman : integer to roman numerals converter
 - inflect python library : Correctly generate plurals, singular nouns, ordinals, indefinite articles; convert numbers to words. 
+
 This is a process known as text normalization, and helps convert :
 
 12:47 to "twelve forty-seven" 
