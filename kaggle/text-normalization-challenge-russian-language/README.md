@@ -41,8 +41,7 @@ For example, if the input is "145" and the predicted output is "one forty five"
 
 ## 코드
 
-[`./text-normalization-russian-language.ipynb`](./text-normalization-russian-language.ipynb)
+[`./text-normalization-russian.ipynb`](./text-normalization-russian.ipynb)
 
 ## 참고 자료
 
-- [Image data augmentation layers with Keras](https://www.tensorflow.org/guide/keras/preprocessing_layers)
