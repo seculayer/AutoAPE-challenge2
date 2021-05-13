@@ -29,7 +29,7 @@
 
 ## 코드
 
-[`./NCCAPrediction.py`](./NCCAPrediction.py)
+[`./NCAAPrediction.py`](./NCAAPrediction.py)
 
 ## 참고 자료
 
