@@ -13,9 +13,9 @@
 
 ### 결과화면
 
-![leaderboard](./img/screenshot_competition.png)
+![leaderboard](./img/screenshot_comp.png)
+![leaderboard](./img/screenshot_comp_score.png)
 ![leaderboard](./img/screenshot_ranking.png)
-![leaderboard](./img/screenshot_score.png)
 
 ## 사용한 방법 & 알고리즘
 
