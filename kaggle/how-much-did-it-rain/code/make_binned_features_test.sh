@@ -1,6 +1,3 @@
-#!/bin/sh
-
-#this is pretty simple way to this so 
 python binned_features.py '../processed/test_' 'Reflectivity' 17 200 20 &
 python binned_features.py '../processed/test_' 'Composite' 17 200 20 &
 python binned_features.py '../processed/test_' 'DistanceToRadar' 17 200 20 &

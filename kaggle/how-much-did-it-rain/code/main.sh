@@ -1,9 +1,5 @@
-#!/bin/bash
-
-#generate descriptive stat features
 python standard_features.py
 
-##comment out the below two lines for a faster solution
 ./make_binned_features_train.sh
 ./make_binned_features_test.sh
 

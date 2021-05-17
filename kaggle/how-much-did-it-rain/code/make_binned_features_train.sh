@@ -1,5 +1,3 @@
-#!/bin/sh
-
 python binned_features.py '../processed/train_' 'Reflectivity' 17 200 20 &
 python binned_features.py '../processed/train_' 'Composite' 17 200 20 &
 python binned_features.py '../processed/train_' 'DistanceToRadar' 17 200 20 &
