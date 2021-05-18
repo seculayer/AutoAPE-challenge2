@@ -13,10 +13,10 @@
 
 ### 결과화면
 
-```
+
 ![](img/loan-default-prediction.PNG)
 ![](img/loan-default-prediction1.png)
-```
+
 
 ## 사용한 방법 & 알고리즘
 
@@ -28,14 +28,14 @@
 
 ## 코드
 
-```
+
 [./loan-default-prediction.py](loan-default-prediction.py)
-```
+
 
 ## 참고 자료
 
-- ```
+
   [VIF](https://zhuanlan.zhihu.com/p/96193669)
   [VIF](https://www.kaggle.com/abeersaxena/submission-31-08-2020)
-  ```
+
 
