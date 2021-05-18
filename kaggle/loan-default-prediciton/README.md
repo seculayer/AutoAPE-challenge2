@@ -14,8 +14,8 @@
 ### 결과화면
 
 ```
-![learnboard](./img/loan-default-prediction.PNG)
-![learnboard](./img/loan-default-prediction1.png)
+![](/img/loan-default-prediction.PNG)
+![](/img/loan-default-prediction1.png)
 ```
 
 ## 사용한 방법 & 알고리즘
@@ -24,12 +24,12 @@
   - Use the VIF method for feature selection and dimensionality reduction
   - PCA(X)
 - model building 
-  - Xgboost is used 
+  - Xgboost model is used 
 
 ## 코드
 
 ```
-[./loan-default-prediction.py](./loan-default-prediction.py)
+[./loan-default-prediction.py](/loan-default-prediction.py)
 ```
 
 ## 참고 자료
