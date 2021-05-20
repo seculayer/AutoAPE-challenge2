@@ -13,7 +13,8 @@
 
 ### 결과화면
 
-![leaderboard](./img/leaderboard.png)
+![leaderboard1](./img/leaderboard1.png)
+![leaderboard2](./img/leaderboard2.png)
 
 ## 코드
 
