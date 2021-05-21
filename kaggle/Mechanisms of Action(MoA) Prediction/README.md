@@ -30,6 +30,6 @@
 
 ## 코드
 
-[`./MoA.ipynb`](./MoA.ipynb)
+[`./MoA.ipynb`](./MOA.ipynb)
 
 ## 참고 자료
