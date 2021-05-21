@@ -13,7 +13,7 @@
 
 ### 결과화면
 
-![leaderboard](./img/leaderboard.png)
+![leaderboard](./img/Leaderboard.png)
 
 ## 사용한 방법 & 알고리즘
 
@@ -30,4 +30,4 @@ lgb모델을 사용했습니다.
 
 ## 참고 자료
 
-- [Get unknown data](# https://www.kaggle.com/c/PLAsTiCC-2018/discussion/72104)
+- [Get unknown data](https://www.kaggle.com/c/PLAsTiCC-2018/discussion/72104)
