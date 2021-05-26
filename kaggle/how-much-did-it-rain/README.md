@@ -28,10 +28,14 @@
 
 ## 코드
 
-[`./code/binned_features.py`](./binned_features.py)
-[`./code/functions.py`](./functions.py)
-[`./code/main.sh`](./main.sh)
-[`./code/make_binned_features_test.sh`](./make_binned_features_test.sh)[`./code/make_binned_features_train.sh`](./make_binned_features_train.sh)[`./code/make_predictions.py`](./make_predictions.py)[`./code/standard_features.py`](./standard_features.py)[`./code/train_subset1.py`](./train_subset1.py)[`./code/train_subset2.py`](./train_subset2.py)[`./code/train_subset3.py`](./train_subset3.py)[`./code/train_subset4.py`](./train_subset4.py)
-[`./code/train_subset5.py`](./train_subset5.py)
+[`./binned_features.py`](./binned_features.py)
+[`./functions.py`](./functions.py)
+[`./main.sh`](./main.sh)
+[`./make_binned_features_test.sh`](./make_binned_features_test.sh)[`./make_binned_features_train.sh`](./make_binned_features_train.sh)[`./make_predictions.py`](./make_predictions.py)[`./standard_features.py`](./standard_features.py)
+[`./train_subset1.py`](./train_subset1.py)
+[`./train_subset2.py`](./train_subset2.py)
+[`./train_subset3.py`](./train_subset3.py)
+[`./train_subset4.py`](./train_subset4.py)
+[`./train_subset5.py`](./train_subset5.py)
 
 ## 참고 자료
