@@ -27,33 +27,91 @@ kaggle/
 
     Kaggle 대회 ID는 URL에서 찾을 수 있습니다.
 
-    예시) 대회 URL이 `https://www.kaggle.com/c/acea-water-prediction`이면, `acea-water-prediction` 부분이 대회 ID입니다.
+    예시 - kaggle 대회 URL이 `https://www.kaggle.com/c/acea-water-prediction`이면, `acea-water-prediction` 부분이 대회 ID입니다.
 
 2. `metadata.yaml`과 `README.md`를 작성합니다.
 
-    metadata에는 아래와 같은 내용들이 있어야한다.
+    metadata에는 아래와 같은 내용들이 있어야합니다.
 
     ```yaml
+    version: 2
     id: kaggle-competition-id
-    score:
-    team:
-    rank:
-    date:
+    score: 캐글 대회 점수
+    teams: 참가한 총 팀 수
+    rank: 등수
+    date: 대회에 제출한 날짜
     organization:
-    author:
-      id:
-      name:
+    team:
+      name: 팀 이름
+      members:
+        - id: Kaggle ID
+          name: 이름
+        - id: Kaggle ID
+          name: 이름
     ```
 
-    README에는 다음과 같은 내용이 있어야 합니다.
+    팀 참여 예시.
+
+    ```yaml
+    version: 2
+    id: titanic
+    score: 0.817
+    teams: 1000
+    rank: 100
+    date: 2021-05-20
+    organization: Hanyang University
+    team:
+      name: "Team Example"
+      members:
+        - id: User1
+          name: Jone
+        - id: User2
+          name: 홍길동
+    ```
+
+    개인 참여 예시
+
+    ```yaml
+    version: 2
+    id: titanic
+    score: 0.817
+    teams: 1000
+    rank: 100
+    date: 2021-05-20
+    organization: SecuLayer
+    team:
+      name: User1
+      members:
+        - id: User1
+          name: Jone
+    ```
+
+    `README.md`에는 다음과 같은 내용이 있어야 합니다.
 
     - 결과 요약
     - 리더보드 이미지
+      - 대회 점수 이미지
+      - 등수 이미지
     - 알고리즘, 문제 해결 방법
+    - 팀 참여 시 역할 및 기여도
     - 참고 자료
     - 기타
 
-3. 사용했던 코드들을 생성했던 폴더에 넣습니다.
+3. 작성했던 코드들을 생성했던 폴더에 넣습니다.
+    - colab, jupyter 등을 사용했다면 `ipynb`을 그대로 올려도 됩니다.
+4. Commit 하기
+    - 팀 참여 시 commit 본문에 마지막에 `Co-authored-by: name <name@example.com>`를 추가하면, 한 커밋에 여러 작성자를 추가할 수 있습니다.
+    - 팀 참여 `git commit` 커맨드 예제
+
+    ```sh
+     git commit -m "Refactor usability tests.
+    >
+    >
+    Co-authored-by: name <name@example.com>
+    Co-authored-by: another-name <another-name@example.com>"
+    ```
+
+    - 참고자료 : [Creating a commit with multiple authors](https://docs.github.com/en/github/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 
 ## 참고
 
