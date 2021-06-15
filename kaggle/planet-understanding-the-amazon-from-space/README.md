@@ -13,11 +13,11 @@
 
 ### 결과화면
 
-![](C:\Users\liang\Desktop\planet-understanding-the-amazon-from-space\img\图片1.png)
+![](./img/1.png)
 
-![](C:\Users\liang\Desktop\planet-understanding-the-amazon-from-space\img\图片2.png)
+![](./img/2.png)
 
-![](C:\Users\liang\Desktop\planet-understanding-the-amazon-from-space\img\图片3.png)
+![](./img/3.png)
 
 ## 사용한 방법 & 알고리즘
 

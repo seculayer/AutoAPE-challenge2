@@ -17,7 +17,7 @@
 
 ![leaderboard](./img/2.png)
 
-![](C:\Users\liang\Desktop\crowdflower-search-relevance\img\图片3.PNG)
+![](./img/3.png)
 
 ## 사용한 방법 & 알고리즘
 
