@@ -13,9 +13,9 @@
 
 ### 결과화면
 
-![leaderboard](./img/1.png)
+![leaderboard](./img/1.PNG)
 
-![leaderboard](./img/2.png)
+![leaderboard](./img/2.PNG)
 
 ![](./img/3.png)
 
