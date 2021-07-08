@@ -10,10 +10,9 @@
 ### 결과화면
 ![leaderboard](./img/leaderboard.png)
 ## 사용한 방법 & 알고리즘
-KNeighborsClassifier
 - Feature engineering
   - Divide the artificial world into a grid of arbitrary number of cells
-- LightGBM Model Optimization using validation set
+- KNeighborsClassifier
   - n_neighbors and leaf_size parameters dependent on the number of observations
 ## 코드
 [`./facebook-v-predicting-check-ins.ipynb`](./facebook-v-predicting-check-ins.ipynb)
