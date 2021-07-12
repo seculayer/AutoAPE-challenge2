@@ -1,8 +1,6 @@
-# TIANGE XIANG- Human Protein Atlas Image Classification
+# Human Protein Atlas Image Classification
 
-# 결과
-
-### 요약정보
+### ### 요약정보
 
 - 도전기관 : 한양대학교
 - 도전자 : 상천가
@@ -11,9 +9,9 @@
 - 총 참여 팀 수 : 2119
 - 순위 및 비율 : 483(23%)
 
-### 결과화면
+### ### 결과화면
 
-![leaderboard](D:\Kaggle\AI_Competitions_2\kaggle\Human Protein Atlas Image Classification\img\leaderboard.png)
+![leaderboard](./img/leaderboard.png)
 
 ## 사용한 방법 & 알고리즘
 
@@ -23,9 +21,9 @@
     
     ```
 
-## 코드
+## ## 코드
 
- [Human Protein Atlas Image Classification.py](..\Human Protein Atlas Image Classification\Human Protein Atlas Image Classification.py) 
+[ ./human-protein-atlas-image-classification.py](./human-protein-atlas-image-classification.py)
 
-## 참고 자료
+## ### 참고 자료
 

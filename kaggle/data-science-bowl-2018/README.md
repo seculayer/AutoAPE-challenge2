@@ -1,6 +1,6 @@
-# TIANGE XIANG- 2018 Data Science Bowl결과
+# 2018 Data Science Bowl
 
-### 요약정보
+### ### 요약정보
 
 - 도전기관 : 한양대학교
 - 도전자 : 상천가
@@ -9,11 +9,11 @@
 - 총 참여 팀 수 : 739
 - 순위 및 비율 : 455（59%)
 
-### 결과화면
+### ### 결과화면
 
-![leaderboard](D:\Kaggle\AI_Competitions_2\kaggle\2018 Data Science Bowl\img\leaderboard.png)
+![leaderboard](./img/leaderboard.png)
 
-## 사용한 방법 & 알고리즘
+## ## 사용한 방법 & 알고리즘
 
 사용보델 Mask RCNN
 
@@ -23,9 +23,7 @@ Predictions to deliver for each image for is a list of masks detected (the insta
     
     ```
 
-## 코드
+## ## 코드
 
- [2018 Data Science Bowl.py](2018 Data Science Bowl.py) 
-
-## 참고 자료
+## [ . /data-science-bowl-2018.py](./data-science-bowl-2018.py)
 

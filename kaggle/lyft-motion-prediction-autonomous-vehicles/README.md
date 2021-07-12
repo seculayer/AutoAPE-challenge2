@@ -1,8 +1,6 @@
-# TIANGE XIANG- Lyft Motion Prediction for Autonomous Vehicles
+# Lyft Motion Prediction for Autonomous Vehicles
 
-# 결과
-
-### 요약정보
+### ### 요약정보
 
 - 도전기관 : 한양대학교
 - 도전자 : 상천가
@@ -11,11 +9,11 @@
 - 총 참여 팀 수 : 935
 - 순위 및 비율 : 328（35%)
 
-### 결과화면
+### ### 결과화면
 
-![leaderboard](D:\Kaggle\AI_Competitions_2\kaggle\Lyft Motion Prediction for Autonomous Vehicles\img\leaderboard.png)
+![leaderboard](./img/leaderboard.png)
 
-## 사용한 방법 & 알고리즘
+## ## 사용한 방법 & 알고리즘
 
  I present an end-to-end train and prediction pipeline to predict vehicle motions with a pre-trained model included.
 
@@ -30,9 +28,9 @@ Click on the button "Add data" in the "Data" section and search for Lyft-pre-tra
     
     ```
 
-## 코드
+## ## 코드
 
- [Lyft Motion Prediction for Autonomous Vehicles.py](..\Lyft Motion Prediction for Autonomous Vehicles\Lyft Motion Prediction for Autonomous Vehicles.py) 
+[  ./lyft-motion-prediction-autonomous-vehicles.py](./lyft-motion-prediction-autonomous-vehicles.py)
 
-## 참고 자료
+## ## 참고 자료
 
