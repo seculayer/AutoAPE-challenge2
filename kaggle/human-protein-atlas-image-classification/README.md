@@ -1,4 +1,6 @@
-# Human Protein Atlas Image Classification
+# # Human Protein Atlas Image Classification
+
+## ## 결과
 
 ### ### 요약정보
 
@@ -13,7 +15,7 @@
 
 ![leaderboard](./img/leaderboard.png)
 
-## 사용한 방법 & 알고리즘
+## ## 사용한 방법 & 알고리즘
 
  I  using a light ResNet34 model and low-resolution images to have a baseline that can be used later to select higher end models and explore the effect of image resolution on the prediction accuracy. The validation F1 score of the model is ~0.5-0.6
 
@@ -25,5 +27,5 @@
 
 [ ./human-protein-atlas-image-classification.py](./human-protein-atlas-image-classification.py)
 
-## ### 참고 자료
+## ## 참고 자료
 

@@ -1,4 +1,6 @@
-#  University of Liverpool - Ion Switching
+#  # University of Liverpool - Ion Switching
+
+## ## 결과
 
 ### ### 요약정보
 
@@ -23,9 +25,9 @@ Use this dataset to install RAPIDS in Kaggle notebooks
     
     ```
 
-## 코드
+## ## 코드
 
 [ ./ [liverpool-ion-switching.py] ](./liverpool-ion-switching.py)
 
-## 참고 자료
+## ## 참고 자료
 

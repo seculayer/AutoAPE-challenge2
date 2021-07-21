@@ -1,4 +1,6 @@
-# Dogs vs. Cats Redux: Kernels Edition
+# # Dogs vs. Cats Redux: Kernels Edition
+
+## ## 결과
 
 ### ### 요약정보
 
@@ -23,13 +25,15 @@
 
 Use Evaluate() or evalute_generator() to check your model accuracy on validation set
 
-- - ```
+- - 
+    
+    ```
     
     ```
 
 ## ## 코드
 
-[ ./dogs-vs-cats-redux-kernels-edition.py](./dogs-vs-cats-redux-kernels-edition.py)
+[   ./dogs-vs-cats-redux-kernels-edition.py](./dogs-vs-cats-redux-kernels-edition.py)
 
 ## ## 참고  자료
 
