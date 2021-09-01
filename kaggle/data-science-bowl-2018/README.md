@@ -27,6 +27,6 @@ Predictions to deliver for each image for is a list of masks detected (the insta
 
 ## ## 코드
 
-## [  ./data-science-bowl-2018.py](./data-science-bowl-2018.py)
+## [  ./Data-Science-Bowl-2018.py](./Data-Science-Bowl-2018.py)
 
 ## ## 참고차료
