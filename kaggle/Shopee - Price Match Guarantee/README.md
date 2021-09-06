@@ -17,9 +17,9 @@
 
 ### 결과화면
 
-![결과](/Users/sengjeawang/Desktop/ML_study/kaggle/Shopee/screanshot/result.png)
+![결과](screanshot/result.png)
 
-![결과](/Users/sengjeawang/Desktop/ML_study/kaggle/Shopee/screanshot/score.png)
+![결과](screanshot/score.png)
 
 ----------
 
