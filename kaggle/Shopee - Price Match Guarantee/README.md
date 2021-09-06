@@ -36,7 +36,7 @@
 
 ### 코드
 
-'./Shopee - Price Match Guarantee.py'
+['./Shopee - Price Match Guarantee.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Shopee%20-%20Price%20Match%20Guarantee/Shopee%20-%20Price%20Match%20Guarantee.py)
 
 -----------
 
