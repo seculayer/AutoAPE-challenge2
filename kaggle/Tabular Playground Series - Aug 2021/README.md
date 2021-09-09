@@ -53,6 +53,13 @@
 
 -------------
 
+### 실험 환경 & 소요 시간
+
+* 실험 환경 : kaggle python nootbook (GPU)
+* 소요 시간 : 약 1시간 20분
+
+-----------
+
 ### 코드
 
 ['./Tabular Playground Series - Aug 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
@@ -68,12 +75,3 @@
 [CatBoost](https://github.com/catboost/catboost)
 
 [leaf-wise, level-wise](https://datascience.stackexchange.com/questions/26699/decision-trees-leaf-wise-best-first-and-level-wise-tree-traverse)
-
-
-
-
-
-
-
-
-
