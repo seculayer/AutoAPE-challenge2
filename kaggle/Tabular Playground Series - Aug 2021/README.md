@@ -10,10 +10,10 @@
 
 * 도전기관 : 시큐레이어
 * 도전자 : 왕승재
-* 최종스코어 : 7.88759
+* 최종스코어 : 7.86560
 * 제출일자 : 2021-09-09
 * 총 참여 팀 수 : 1753
-* 순위 및 비율 : 1 (0%)
+* 순위 및 비율 : 302 (17%)
 
 ### 결과화면
 
@@ -25,31 +25,29 @@
 
 ### 사용한 방법 & 알고리즘
 
-* LightAutoML
+#### 전처리
 
-  * 자동화된 기계 학습을 목적으로 하는 오픈 소스 파이썬 라이브러리.
-  * Tabular, text data에 대해 가볍고 효율적이도록 설계됐다.
+* Quantile Normalization
+  * Quantile Normalization은 비교하려는 data들의 분포를 동일하게 만들고 싶을 때, 또는 기준이 되는 분포가 있는 경우 데이터들의 분포를 모두 기준 분포와 동일하게 만들고 싶을 때 사용할 수 있다.
+  * Data set 각 column의 noise가 심해서 분포가 크게 달랐기 때문에 Quantile 방법을 통해 정규화를 진행했다.
+* Denoising Auto-Encoder(DAE)
+  * Auto-Encoder가 의미 있는 feature를 학습하도록 제약을 주는 방법.
+  * input data에 noise를 추가하고, noise가 없는 원본 data를 재구성하도록 학습시킨다.
+  * noise는 input data에 'Gaussian noise'를 추가하거나, Dropout처럼 랜덤하게 노드를 drop해서 발생 시킬 수 있다.
+* Bins
+  * Bins을 기반으로 동일한 크기의 buckets으로 feature 변환.
 
-* Gradient Boosting
+#### 모델
 
-  * Weak learner를 loss function상에서 gradient descent라는 최적화 기법으로 기울기가 가장 큰(greedy procedure) 방향으로 sub tree들을 반복적으로 추가하여 결합하는 방법으로 성능을 향상시키는 boosting 기법중 하나이다.
+* 3 Input Branches :
+  1. 100개의 quantile normalized features.
+  2. 100개의 encoded features 및 상위 10개 principal components analysis(PCA).
+  3. 100개의 binned features.
+* 2 middle blocks :
+  1. quantile normalized + encoded features에 대한 feed-forward block.
+  2. binned features에 대한 convolutional block.
 
-* LGBM(Light Gradient Boosting Machine)
-
-  * Gradient Boosting Framework로 Tree기반 학습 알고리즘.
-
-  * 잔여오차(residual error)에 가중치를 gradient descent로 진행한다.
-
-  * 다른 알고리즘은 level-wise인 반면 LGBM은 leaf-wise이다.
-
-    ![leafwise](screenshot/leafwise.png)
-
-  * leaf-wise의 장점은 속도가 빠르다는 것이 가장 큰 장점입니다. Light GBM은 큰 사이즈의 데이타를 다룰 수 있고 실행시킬 때 적은 메모리를 차지합니다. 
-
-* Catboost
-
-  * level-wise 방식.
-  * Ordering Principle의 개념을 대입하여 기존의 data-leakage로 인한 prediction-shift에 대한 문제 그리고 high cardinality를 가진 category 변수에 대한 전처리 문제를 해결함으로서 다른 gbm 알고리즘보다 좋은 성능을 낸다.
+<img src="screenshot/model.png" alt="model" style="zoom:50%;" />
 
 -------------
 
@@ -62,19 +60,15 @@
 
 ### 코드
 
-['./Tabular Playground Series - Aug 2021.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
+['./Tabular Playground Series - Aug 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
 
 -----------
 
 ### 참고자료
 
-[LightAutoML](https://lightautoml.readthedocs.io/en/latest/)
+[Quantile Normalization](https://en.wikipedia.org/wiki/Quantile_normalization)
 
-[LGBM](https://github.com/microsoft/LightGBM)
+[Denoising Auto-Encoder](https://blog.keras.io/building-autoencoders-in-keras.html)
 
-[CatBoost](https://github.com/catboost/catboost)
-
-[leaf-wise, level-wise](https://datascience.stackexchange.com/questions/26699/decision-trees-leaf-wise-best-first-and-level-wise-tree-traverse)
-
-
+[Histogram Bins](https://en.wikipedia.org/wiki/Histogram)
 
