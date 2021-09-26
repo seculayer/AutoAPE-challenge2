@@ -1,10 +1,10 @@
 id: titanic
-title: Titanic - Machine Learning from Disaster
-score: 0.75837
-team: 20435
-rank: 17144
-date: 2021-02-18
-organization: SecuLayer
+title: Titanic survivor prediction
+score: 0.77511
+team: 50264
+rank: 42486
+date: 2021-09-26
+organization: Hanyang University
 author:
-  id: development
-  name: 이원준
+  id: zhanzhan
+  name: 왕전
