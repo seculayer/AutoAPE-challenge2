@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 print('Starting...')
-train_df = pd.read_csv('../input/riiid-test-answer-prediction/train.csv',
+train_df = pd.read_csv('input/riiid-test-answer-prediction/train.csv',
                        usecols=['timestamp',
                                 'user_id',
                                 'content_id',
@@ -101,7 +101,7 @@ print(f'user_id={user_id} user_idx={user_idx} user_ids_by_idxs[user_idxs_by_ids[
 user_data = user_data_by_idxs[user_idx]
 print(f'user_data={str(user_data)[:1000]}')
 
-questions_df = pd.read_csv('../input/riiid-test-answer-prediction/questions.csv',
+questions_df = pd.read_csv('input/riiid-test-answer-prediction/questions.csv',
     dtype={'question_id': 'int16', 'bundle_id': 'int32', 'correct_answer': 'int8', 'part': 'int8', 'tags': 'object'})
 questions_df.fillna('', inplace=True)
 def extract_tags_list(x):
@@ -745,7 +745,7 @@ criteria = [CustomBCELoss().to(device),
             nn.CrossEntropyLoss(ignore_index=0, weight=torch.tensor([0, 0.25, 0.25, 0.25, 0.25, ])).to(device),
             ]
 
-best_model_file_path = '../input/model4pth/prf_wue0.25_sl256_lr0.0005_e5_of7_trainauc0.8082896856958341.pth'
+best_model_file_path = 'input/model4pth/prf_wue0.25_sl256_lr0.0005_e5_of7_trainauc0.8082896856958341.pth'
 print('Loading Model:', best_model_file_path)
 model = torch.load(best_model_file_path)
 model.to(device)
