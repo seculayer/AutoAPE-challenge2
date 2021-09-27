@@ -52,7 +52,7 @@
 
 ### 코드
 
-['./Riiid Answer Correctness Prediction.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
+['./Riiid Answer Correctness Prediction.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Riiid%20Answer%20Correctness%20Prediction/Riiid%20Answer%20Correctness%20Prediction.py)
 
 -----------
 
