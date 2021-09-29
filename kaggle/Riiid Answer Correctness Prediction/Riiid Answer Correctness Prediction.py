@@ -33,7 +33,7 @@ print(train_df.head())
 
 print('Done')
 
-% % time
+%%time
 
 import gc
 
