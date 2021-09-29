@@ -102,7 +102,7 @@ user_data = user_data_by_idxs[user_idx]
 print(f'user_data={str(user_data)[:1000]}')
 
 questions_df = pd.read_csv('input/riiid-test-answer-prediction/questions.csv',
-    dtype={'question_id': 'int16', 'bundle_id': 'int32', 'correct_answer': 'int8', 'part': 'int8', 'tags': 'object'})
+                            dtype={'question_id': 'int16', 'bundle_id': 'int32', 'correct_answer': 'int8', 'part': 'int8', 'tags': 'object'})
 questions_df.fillna('', inplace=True)
 def extract_tags_list(x):
     tag_idxs = [0, 0, 0, 0, 0, 0]
