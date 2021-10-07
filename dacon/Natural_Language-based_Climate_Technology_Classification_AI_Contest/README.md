@@ -12,7 +12,7 @@
 - 순위 및 비율 : 18(6%)
 
 ### 결과화면
-![leaderboard](./leaderboard.PNG)
+![leaderboard](./img/leaderboard.PNG)
 
 
 ## 사용한 방법 & 알고리즘
