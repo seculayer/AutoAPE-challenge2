@@ -34,9 +34,9 @@
   * 최종 Meta-Learner로는 Logistic Regression Model을 사용하여 예측을 진행했다.
 
 <p align="center">
-<img src="screanshot/model1.png" alt="model1" style="zoom: 33%;" />
+<img src="screanshot/model1.png" alt="model1" width="33%" height="33%" />
 
-<img src="screanshot/model2.png" alt="model2" style="zoom: 50%;" />
+<img src="screanshot/model2.png" alt="model2" width="50%" height="50%" />
 </p>
 
 * XGBoost
