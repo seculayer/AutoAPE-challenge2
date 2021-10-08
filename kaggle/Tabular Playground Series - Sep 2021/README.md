@@ -17,9 +17,9 @@
 
 ### 결과화면
 
-![결과](screanshot/score.png)
+<center>![결과](screanshot/score.png)</center>
 
-![결과](screanshot/leaderboard.png)
+<center>![결과](screanshot/leaderboard.png)</center>
 
 ----------
 
