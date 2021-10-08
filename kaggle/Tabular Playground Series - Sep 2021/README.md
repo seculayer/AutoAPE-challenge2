@@ -33,9 +33,9 @@
   * 본 대회에서는 XGBoost, LightGMB, CatBoost를 기반으로 Ensemble 했다.
   * 최종 Meta-Learner로는 Logistic Regression Model을 사용하여 예측을 진행했다.
 
-<img src="screanshot/model1.png" alt="model1" style="zoom:1%;" />
+<img src="screanshot/model1.png" alt="model1" style="zoom: 33%;" />
 
-<img src="screanshot/model2.png" alt="model2" style="zoom:1%;" />
+<img src="screanshot/model2.png" alt="model2" style="zoom: 50%;" />
 
 * XGBoost
   * XGBoost는 Gradient Boosting 개념을 의사결정 나무에 도입한 알고리즘이다.
