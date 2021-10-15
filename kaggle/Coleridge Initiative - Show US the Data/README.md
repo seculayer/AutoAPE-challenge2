@@ -55,7 +55,7 @@
 
 ### 코드
 
-['./Tabular Playground Series - Sep 2021.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Sep%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
+['./Coleridge Initiative - Show US the Data.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Coleridge%20Initiative%20-%20Show%20US%20the%20Data/Coleridge%20Initiative%20-%20Show%20US%20the%20Data.py)
 
 -----------
 
