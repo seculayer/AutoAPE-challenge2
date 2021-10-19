@@ -34,9 +34,11 @@
   * 최종 Meta-Learner로는 Logistic Regression Model을 사용하여 예측을 진행했다.
   * 200 rounds내에 점수 향상이 없으면 Early Stop을 걸어서 학습 시간을 줄였다.
 
-<img src="screanshot/model1.png" alt="model1" style="zoom:50%;" />
+<p align="center">
+<img src="screanshot/model1.png" alt="model1" width="33%" height="33%" />
 
-<img src="screanshot/model2.png" alt="model2" style="zoom: 67%;" />
+<img src="screanshot/model2.png" alt="model2" width="50%" height="50%" />
+</p>
 
 * XGBoost
   * XGBoost는 Gradient Boosting 개념을 의사결정 나무에 도입한 알고리즘이다.
