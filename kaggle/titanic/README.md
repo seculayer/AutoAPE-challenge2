@@ -13,7 +13,7 @@
 
 ### 결과화면
 
-![](./img/titanic.PNG)
+![Leaderboard](./img/titanic.png)
 
 ## 사용한 방법 & 알고리즘
 
