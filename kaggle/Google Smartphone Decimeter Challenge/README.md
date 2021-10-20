@@ -45,7 +45,7 @@
 
 ### 코드
 
-['./Riiid Answer Correctness Prediction.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
+['./Google Smartphone Decimeter Challenge.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Google%20Smartphone%20Decimeter%20Challenge/Google%20Smartphone%20Decimeter%20Challenge.py)
 
 -----------
 
