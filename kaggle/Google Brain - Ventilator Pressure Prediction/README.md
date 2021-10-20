@@ -60,7 +60,7 @@
 
 ### 코드
 
-['./Riiid Answer Correctness Prediction.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Tabular%20Playground%20Series%20-%20Aug%202021/Tabular%20Playground%20Series%20-%20Aug%202021.py)
+['./Google Brain - Ventilator Pressure Prediction.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Google%20Brain%20-%20Ventilator%20Pressure%20Prediction/Google%20Brain%20-%20Ventilator%20Pressure%20Prediction.py)
 
 -----------
 
