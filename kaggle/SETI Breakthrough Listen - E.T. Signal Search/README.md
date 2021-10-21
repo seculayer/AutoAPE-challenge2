@@ -48,7 +48,7 @@
 
 ### 코드
 
-['./RSNA-MICCAI Brain Tumor Radiogenomic Classification.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/RSNA-MICCAI%20Brain%20Tumor%20Radiogenomic%20Classification/RSNA-MICCAI%20Brain%20Tumor%20Radiogenomic%20Classification.py)
+['./SETI Breakthrough Listen - E.T. Signal Search.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/SETI%20Breakthrough%20Listen%20-%20E.T.%20Signal%20Search/SETI%20Breakthrough%20Listen%20-%20E.T.%20Signal%20Search.py)
 
 -----------
 
