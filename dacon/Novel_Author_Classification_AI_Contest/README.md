@@ -19,12 +19,13 @@
 
 - DNN 모델과 CNN 모델을 만들어 학습 후 앙상블
 - 텍스트 전처리
-*
-- 한국어 토큰화 시 명사인 단어가 (관형사, 부사) + 명사로 분리 된는 현상이 있어 해당 단어를 다시 원래 단어로 바꾸어 주는 작업을 시행
-- CNN 사용
+  - DNN은 SentencePieceTrainer를 이용하여 전처리 하였다.
+  - CNN은 Bert를 이용하여 전처리를 하였다.
+- K-Fold를 사용하여 성능이 제일 좋은 모델을 앙상블에 사용하였다.
+- DNN과 CNN모델 3개를 사용하였다.
 
 ## 코드
-['./NLC_TC_AI_Contest.ipynb'](./NLC_TC_AI_Contest.ipynb)
+['./Novel_Author_Classification_AI_Contest.ipynb'](./Novel_Author_Classification_AI_Contest.ipynb)
 
 
 ## 참고 자료
