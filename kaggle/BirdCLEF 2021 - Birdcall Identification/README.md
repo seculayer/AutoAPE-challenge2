@@ -68,7 +68,7 @@
 
 ### 코드
 
-['./RSNA-MICCAI Brain Tumor Radiogenomic Classification.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/RSNA-MICCAI%20Brain%20Tumor%20Radiogenomic%20Classification/RSNA-MICCAI%20Brain%20Tumor%20Radiogenomic%20Classification.py)
+['./BirdCLEF 2021 - Birdcall Identification.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/BirdCLEF%202021%20-%20Birdcall%20Identification/BirdCLEF%202021%20-%20Birdcall%20Identification.py)
 
 -----------
 
