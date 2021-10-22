@@ -21,8 +21,8 @@
 - 텍스트 전처리
   - DNN은 SentencePieceTrainer를 이용하여 전처리 하였다.
   - CNN은 Bert를 이용하여 전처리를 하였다.
-- K-Fold를 사용하여 성능이 제일 좋은 모델을 앙상블에 사용하였다.
 - DNN과 CNN모델 3개를 사용하였다.
+- K-Fold를 사용하여 성능이 제일 좋은 모델을 앙상블에 사용하였다.
 
 ## 코드
 ['./Novel_Author_Classification_AI_Contest.ipynb'](./Novel_Author_Classification_AI_Contest.ipynb)
