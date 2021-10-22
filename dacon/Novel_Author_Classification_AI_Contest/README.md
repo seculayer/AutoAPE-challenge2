@@ -12,7 +12,7 @@
 - 순위 및 비율 : 59(16.57%)
 
 ### 결과화면
-![novel_leaderboard](./img/novel_leaderboard.PNG)
+![novel_learderboard](./img/novel_learderboard.PNG)
 
 
 ## 사용한 방법 & 알고리즘
