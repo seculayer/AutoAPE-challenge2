@@ -166,7 +166,7 @@
 
 ### 코드
 
-['./Hotel-ID to Combat Human Trafficking 2021 - FGVC8.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Hotel-ID%20to%20Combat%20Human%20Trafficking%202021%20-%20FGVC8/Hotel-ID%20to%20Combat%20Human%20Trafficking%202021%20-%20FGVC8.py)
+['./Plant Pathology 2021 - FGVC8.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Plant%20Pathology%202021%20-%20FGVC8/Plant%20Pathology%202021%20-%20FGVC8.py)
 
 -----------
 
