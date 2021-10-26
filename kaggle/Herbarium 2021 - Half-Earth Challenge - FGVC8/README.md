@@ -17,9 +17,9 @@
 
 ### 결과화면
 
-![결과](screanshot/score.png)
+![결과](screanshot/score.PNG)
 
-![결과](screanshot/leaderboard.png)
+![결과](screanshot/leaderboard.PNG)
 
 ----------
 
@@ -161,7 +161,7 @@
 
 ### 코드
 
-['./Hotel-ID to Combat Human Trafficking 2021 - FGVC8.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Hotel-ID%20to%20Combat%20Human%20Trafficking%202021%20-%20FGVC8/Hotel-ID%20to%20Combat%20Human%20Trafficking%202021%20-%20FGVC8.py)
+['./Herbarium 2021 - Half-Earth Challenge - FGVC8.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Herbarium%202021%20-%20Half-Earth%20Challenge%20-%20FGVC8/Herbarium%202021%20-%20Half-Earth%20Challenge%20-%20FGVC8.py)
 
 -----------
 
