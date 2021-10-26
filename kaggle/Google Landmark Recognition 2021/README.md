@@ -19,7 +19,7 @@
 
 ![결과](screanshot/score.png)
 
-![결과](screanshot/leaderboard.png)
+![결과](screanshot/leaderboard.PNG)
 
 ----------
 
@@ -70,7 +70,7 @@
 
 ### 코드
 
-['./Hotel-ID to Combat Human Trafficking 2021 - FGVC8.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Hotel-ID%20to%20Combat%20Human%20Trafficking%202021%20-%20FGVC8/Hotel-ID%20to%20Combat%20Human%20Trafficking%202021%20-%20FGVC8.py)
+['./Google Landmark Recognition 2021.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Google%20Landmark%20Recognition%202021/Google%20Landmark%20Recognition%202021.py)
 
 -----------
 
