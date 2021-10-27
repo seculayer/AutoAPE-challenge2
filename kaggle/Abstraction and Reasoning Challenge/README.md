@@ -49,7 +49,7 @@
 
 ### 코드
 
-['./Herbarium 2021 - Half-Earth Challenge - FGVC8.py'](https://github.com/essential2189/ML_study/blob/main/kaggle/Herbarium%202021%20-%20Half-Earth%20Challenge%20-%20FGVC8/Herbarium%202021%20-%20Half-Earth%20Challenge%20-%20FGVC8.py)
+['./Abstraction and Reasoning Challenge.py'](https://github.com/essential2189/AI_Competitions_2/blob/main/kaggle/Abstraction%20and%20Reasoning%20Challenge/Abstraction%20and%20Reasoning%20Challenge.py)
 
 -----------
 
