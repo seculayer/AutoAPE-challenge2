@@ -13,7 +13,7 @@
 
 ### 결과화면
 
-![final](./marchi_leaderboard.png)
+![final](./marchi_leaderboard.PNG)
 
 ## 사용한 방법 & 알고리즘
 방법1. 
