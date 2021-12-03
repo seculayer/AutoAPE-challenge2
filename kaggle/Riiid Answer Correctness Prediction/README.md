@@ -60,5 +60,5 @@
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-[Transformer Models](https://huggingface.co/transformers/summary.html)
+[Transformer Models](https://huggingface.co/docs/transformers/model_summary)
 
