@@ -8,7 +8,7 @@
 - 총 참여 팀수: 1728
 - 순위 및 비율: 22.45%
 ### 결과화면
-![leaderboard00](./img/leaderboard00.png)
+![leaderboard00](./img/leaderboard00.PNG)
 ## 사용한 방법 & 알고리즘
 - lightGBM with parameters:
 params = {'learning_rate': 0.01,

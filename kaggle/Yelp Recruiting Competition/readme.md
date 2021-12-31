@@ -8,7 +8,7 @@
 - 총 참여 팀수: 350
 - 순위 및 비율: 35.71%
 ### 결과화면
-![leaderboard09](./img/leaderboard09.png)
+![leaderboard09](./img/leaderboard09.PNG)
 ## 사용한 방법 & 알고리즘
 - DataBase Join
 - lightGBM with parameters:

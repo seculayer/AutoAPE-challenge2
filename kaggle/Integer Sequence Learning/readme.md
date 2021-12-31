@@ -8,7 +8,7 @@
 - 총 참여 팀수: 284
 - 순위 및 비율: 37.68%
 ### 결과화면
-![leaderboard02](./img/leaderboard02.png)
+![leaderboard02](./img/leaderboard02.PNG)
 ## 사용한 방법 & 알고리즘
 - 최근 5개의 숫자에 기반하여 가장 많이 나타난 다음 숫자 패턴으로 예측
 ## 코드

@@ -8,7 +8,7 @@
 - 총 참여 팀수: 258
 - 순위 및 비율: 26.74%
 ### 결과화면
-![leaderboard07](./img/leaderboard07.png)
+![leaderboard07](./img/leaderboard07.PNG)
 ## 사용한 방법 & 알고리즘
 - BERT-tokenized text data-based Deep Learning
 ## 코드

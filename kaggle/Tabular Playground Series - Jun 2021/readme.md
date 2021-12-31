@@ -8,7 +8,7 @@
 - 총 참여 팀수: 1171
 - 순위 및 비율: 41.42%
 ### 결과화면
-![leaderboard15](./img/leaderboard15.png)
+![leaderboard15](./img/leaderboard15.PNG)
 ## 사용한 방법 & 알고리즘
 - ensemble of CatBoost model with parameters:
 model = CatBoostClassifier(iterations=iterations,

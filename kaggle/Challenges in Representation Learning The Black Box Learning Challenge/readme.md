@@ -8,7 +8,7 @@
 - 총 참여 팀수: 211
 - 순위 및 비율: 23.22%
 ### 결과화면
-![leaderboard06](./img/leaderboard06.png)
+![leaderboard06](./img/leaderboard06.PNG)
 ## 사용한 방법 & 알고리즘
 - Deep Learning
 ## 코드

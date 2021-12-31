@@ -8,7 +8,7 @@
 - 총 참여 팀수: 580
 - 순위 및 비율: 44.83%
 ### 결과화면
-![leaderboard01](./img/leaderboard01.png)
+![leaderboard01](./img/leaderboard01.PNG)
 ## 사용한 방법 & 알고리즘
 - Ensemble of roBERTa and DistilBERT
 ## 코드

@@ -8,7 +8,7 @@
 - 총 참여 팀수: 1097
 - 순위 및 비율: 26.53%
 ### 결과화면
-![leaderboard12](./img/leaderboard12.png)
+![leaderboard12](./img/leaderboard12.PNG)
 ## 사용한 방법 & 알고리즘
 - CatBoost and light-AutoML
 ## 코드

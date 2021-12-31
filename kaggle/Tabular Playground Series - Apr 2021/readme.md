@@ -8,7 +8,7 @@
 - 총 참여 팀수: 1244
 - 순위 및 비율: 29.34%
 ### 결과화면
-![leaderboard08](./img/leaderboard08.png)
+![leaderboard08](./img/leaderboard08.PNG)
 ## 사용한 방법 & 알고리즘
 - lightGBM, XGBoost, Decision Tree, and traditional deep learning
 ## 코드

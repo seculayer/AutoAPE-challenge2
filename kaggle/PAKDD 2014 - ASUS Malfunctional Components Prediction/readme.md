@@ -8,7 +8,7 @@
 - 총 참여 팀수: 607
 - 순위 및 비율: 53.05%
 ### 결과화면
-![leaderboard13](./img/leaderboard13.png)
+![leaderboard13](./img/leaderboard13.PNG)
 ## 사용한 방법 & 알고리즘
 - K Nearest Neighbor
 ## 코드
